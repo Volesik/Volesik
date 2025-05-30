@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 Hi, I'm Viktor
 
-<!--
-**Volesik/Volesik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Middle .NET Software Engineer**  
+💼 Passionate about clean architecture, backend development, and automation 
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧰 Tech Stack
+- **Backend:** C#, ASP.NET Core, Web API, Entity Framework Core  
+- **Databases:** PostgreSQL, SQL Server, MongoDB  
+- **DevOps:** Docker, CI/CD, Hangfire, Azure, Git  
+- **Frontend:** Angular, JavaScript, HTML, CSS  
+- **Messaging & Integration:** Apache Kafka, SignalR  
+- **Testing:** xUnit, NUnit, Moq, TDD  
+
+---
+
+### 💡 What I Work On
+- Building scalable backend services and APIs  
+- Automating processes with Hangfire and Azure Data Factory  
+- Creating tools and services for internal process optimization  
+- Designing clean, maintainable, and testable architecture  
+
+---
+
+### ⚠️ A Note About This GitHub
+Most of my contributions have been made in **private corporate repositories**, so this profile doesn't yet reflect the full scope of my experience. However, I plan to gradually fill this space with personal projects, open-source contributions, and technical experiments — stay tuned!
+
+---
+
+### 📫 Let's Connect
+- 💼 [LinkedIn](https://www.linkedin.com/in/volesik/)
+- 💌 viktor.kyselov.v@gmail.com
+
+Thanks for stopping by!
